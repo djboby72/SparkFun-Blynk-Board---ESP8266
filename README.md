@@ -1,6 +1,8 @@
 # SparkFun-Blynk-Board---ESP8266
 Add support for SparkFun Blynk Board - ESP8266 in Arduino.
 
+https://raw.githubusercontent.com/djboby72/SparkFun-Blynk-Board---ESP8266/master/package_sparkfun_github_index.json
+
 The file is used to add support in Arduino for the SparkFun Blynk Board - ESP8266.
 Pay attention to the removal of generic support esp8266 if it is already installed because it is incompatible with Sparkfun BlynkBoard.
 
